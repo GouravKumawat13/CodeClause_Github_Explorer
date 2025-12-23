@@ -56,7 +56,7 @@ GitHub-Explorer/
    git clone https://github.com/GouravKumawat13/CodeClause_Github_Explorer.git
    
 2. Navigate to the project folder:
-    cd Github explorer
+    - cd Github explorer
 
 3. Open index.html in your browser OR use Live Server in VS Code.
 
