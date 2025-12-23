@@ -53,7 +53,7 @@ GitHub-Explorer/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/github-explorer.git
+   git clone https://github.com/GouravKumawat13/CodeClause_Github_Explorer.git
    
 2. Navigate to the project folder:
     cd github-explorer
